@@ -1,0 +1,9 @@
+model\Student.class
+model\Teacher.class
+model\Menu.class
+controller\TeacherController.class
+controller\indexComparator.class
+utils\Inputter.class
+utils\Sql.class
+controller\MenuController.class
+view\StudentManagement.class
